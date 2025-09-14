@@ -1,0 +1,8 @@
+{
+  "name": "story-forge-api",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "openai": "^4.60.0"
+  }
+}
